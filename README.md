@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samuel3120
-- 👀 I’m web developer
+- 👀 I’m full stack web developer
 - 🌱 I’m currently searching job
 - 💞️ I’m looking to collaborate with senior developers
 - 📫 I want to reach my goals of being full stack senior developer
